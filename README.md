@@ -161,19 +161,100 @@ Machine Learning Engineer and Researcher specializing in predictive modeling, de
   </a>
 </div>
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Advisory%20Board-AI%20Data%20Specialist-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Advisory Board"/>
-  <img src="https://img.shields.io/badge/Award-Outstanding%20Researcher-43853D?style=for-the-badge&logo=research-gate&logoColor=white" alt="Research Award"/>
-  <img src="https://img.shields.io/badge/Finalist-Smart%20India%20Hackathon-FF6F00?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackathon"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Advisory%20Board-AI%20Data%20Specialist-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Advisory Board"/>
+        <br>Waukesha County Technical College
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Award-Outstanding%20Researcher-43853D?style=for-the-badge&logo=research-gate&logoColor=white" alt="Research Award"/>
+        <br>Illinois State University
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Certificate-Human%20Subjects%20Research-00A98F?style=for-the-badge&logo=coursera" alt="CITI Program"/>
+        <br>CITI Program
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Finalist-Smart%20India%20Hackathon-FF6F00?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackathon"/>
+        <br>Credit Card Fraud Detection
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Certificate-Business%20Admin%20Specialist-0056D2?style=for-the-badge&logo=salesforce" alt="Salesforce"/>
+        <br>Salesforce
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Education-MS%20Computer%20Science-CC0000?style=for-the-badge&logo=education" alt="Education"/>
+        <br>Illinois State University (2024)
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 📊 GitHub Stats
+## 📚 Learning Resources
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stu1219&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stu1219&theme=react&hide_border=true&background=1F222E" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU">
+          <img src="https://img.shields.io/badge/Stanford-CS229-8C1515?style=for-the-badge&logo=stanford" alt="Stanford CS229"/>
+          <br>Machine Learning
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.fast.ai/">
+          <img src="https://img.shields.io/badge/Fast.ai-Deep%20Learning-00A4EF?style=for-the-badge" alt="Fast.ai"/>
+          <br>Practical DL
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.deeplearningbook.org/">
+          <img src="https://img.shields.io/badge/Book-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow" alt="Deep Learning Book"/>
+          <br>Goodfellow et al.
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://huggingface.co/">
+          <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface" alt="Hugging Face"/>
+          <br>NLP Models
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://paperswithcode.com/">
+          <img src="https://img.shields.io/badge/Papers-With%20Code-21CBCE?style=for-the-badge&logo=github" alt="Papers With Code"/>
+          <br>ML Research
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://distill.pub/">
+          <img src="https://img.shields.io/badge/Distill-Research-FF6B6B?style=for-the-badge" alt="Distill"/>
+          <br>ML Explanations
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.kaggle.com/">
+          <img src="https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
+          <br>ML Practice
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.coursera.org/specializations/deep-learning">
+          <img src="https://img.shields.io/badge/Coursera-Deep%20Learning-0056D2?style=for-the-badge&logo=coursera" alt="Coursera DL"/>
+          <br>Specialization
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
