@@ -1,16 +1,294 @@
-🌌 Sai Ram Gandla 🌌
-Machine Learning Maestro
-<div align="center"> <img src="https://media.giphy.com/media/l0ExdMLB4MXp1DzRm/giphy.gif" width="150" alt="Tech Orbit Animation"/> <br> <a href="https://www.linkedin.com/in/sairamgandla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=ff00ff&border=2px+solid+cyan" alt="LinkedIn"/></a>   <a href="https://github.com/stu1219"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=ffd700&border=2px+solid+yellow" alt="GitHub"/></a>   <a href="mailto:sairamgandla11@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=00ffff&border=2px+solid+red" alt="Gmail"/></a>   <a href="https://orcid.org/0009-0005-4455-3111"><img src="https://img.shields.io/badge/ORCID-00cc47?style=for-the-badge&logo=orcid&logoColor=white&labelColor=00cc47&color=ff69b4&border=2px+solid+lime" alt="ORCID"/></a> </div>
-🚀 About Me
-<div align="center"> <img src="https://media.giphy.com/media/26xBI73gWquCTfK6Y/giphy.gif" width="250" alt="AI Pulse Animation"/> <br> <span style="color: #ff00ff; font-size: 2em; text-shadow: 2px 2px #00ffff;">**AI Innovator**</span><br> <span style="color: #ffd700; font-size: 1.5em;">Harnessing Predictive Modeling, Deep Learning, & Generative AI</span><br> <span style="color: #00ced1; font-size: 1.2em;">Revolutionizing **Finance**, **Healthcare**, & **Infrastructure**</span> </div>
-⚡ Tech Stack
-<div align="center"> <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSso/giphy.gif" width="200" alt="Tech Spin Animation"/> <br> <img src="https://skillicons.dev/icons?i=python,r,java,cpp,sql,aws,docker,tensorflow,pytorch,kubernetes,gcp,mongodb,git&perline=7&theme=light" alt="Core Tech" /> <br> <img src="https://skillicons.dev/icons?i=numpy,pandas,opencv,hadoop,snowflake,spark,databricks&perline=7&theme=light" alt="Advanced Tools" /> <br> <img src="https://img.shields.io/badge/Fueled_by_Code_&_Creativity-FF4500?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=000000&color=FF4500&border=2px+solid+gold" alt="Creativity Badge"/> </div>
-🔬 Research Highlights
-<div align="center"> <table style="border: 4px double #ff00ff; background: #1a1a1a; padding: 15px; border-radius: 15px; box-shadow: 0 0 10px #00ffff;"> <tr> <td><a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Artificial%20Intelligence%20and%20Natural%20Language%20Processing%20for%20Quality%20Control%20and%20Management"><img src="https://img.shields.io/badge/IEEE_CIVEMSA_2024-00629B?style=for-the-badge&logo=ieee&labelColor=00629B&color=ff69b4&border=2px+solid+cyan" alt="IEEE CIVEMSA"/></a></td> <td><a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Enabling%20Digital%20Twin%20Using%20MEMS%20and%20Sensor%20Technology%20with%20Historic%20Data"><img src="https://img.shields.io/badge/IEEE_EEI_2024-00629B?style=for-the-badge&logo=ieee&labelColor=00629B&color=00ffff&border=2px+solid+lime" alt="IEEE EEI"/></a></td> </tr> <tr> <td><a href="https://www.mdpi.com/journal/applsci"><img src="https://img.shields.io/badge/Applied_Sciences-43853D?style=for-the-badge&logo=researchgate&labelColor=43853D&color=ffd700&border=2px+solid+yellow" alt="Applied Sciences"/></a></td> <td><a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Improving%20Prediction%20Accuracy%20of%20Bridge%20Element%20Deterioration%20for%20Decision%20Support"><img src="https://img.shields.io/badge/IEEE_PRAI_2024-00629B?style=for-the-badge&logo=ieee&labelColor=00629B&color=ff4500&border=2px+solid+red" alt="IEEE PRAI"/></a></td> </tr> </table> </div>
-🌍 Projects
-<div align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnw9NqL6zK0/giphy.gif" width="200" alt="Code Flow Animation"/> <br> <a href="https://github.com/stu1219/AI-Web-Scraper-with-LLM-Parsing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=AI-Web-Scraper-with-LLM-Parsing&theme=neon&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffd700&hide_border=true&border=2px+solid+cyan" alt="AI Web Scraper"/></a>   <a href="https://github.com/stu1219/End-to-end-machine-learning-Project-with-ML-flow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=End-to-end-machine-learning-Project-with-ML-flow&theme=neon&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffd700&hide_border=true&border=2px+solid+lime" alt="ML Flow Project"/></a> <br><br> <a href="https://github.com/stu1219/Car-Price-Prediction-Using-Machine-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=Car-Price-Prediction-Using-Machine-Learning&theme=neon&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffd700&hide_border=true&border=2px+solid+yellow" alt="Car Price Prediction"/></a>   <a href="https://github.com/stu1219/Crime_Rate_Prediction_using_Facebook_Prophet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=Crime_Rate_Prediction_using_Facebook_Prophet&theme=neon&bg_color=000000&title_color=ff00ff&text_color=00ffff&icon_color=ffd700&hide_border=true&border=2px+solid+red" alt="Crime Rate Prediction"/></a> </div>
-🏆 Achievements & Certifications
-<div align="center"> <table style="border: 3px dashed #ffd700; background: #1a1a1a; padding: 15px; border-radius: 20px; box-shadow: 0 0 15px #ff69b4;"> <tr> <td><img src="https://img.shields.io/badge/AI_Data_Specialist-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=4285F4&color=ff00ff&border=2px+solid+cyan" alt="Advisory Board"/><br><small>Waukesha County Technical College</small></td> <td><img src="https://img.shields.io/badge/Outstanding_Researcher-43853D?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=43853D&color=00ffff&border=2px+solid+lime" alt="Research Award"/><br><small>Illinois State University</small></td> </tr> <tr> <td><img src="https://img.shields.io/badge/Human_Subjects_Research-00A98F?style=for-the-badge&logo=coursera&labelColor=00A98F&color=ffd700&border=2px+solid+yellow" alt="CITI Program"/><br><small>CITI Program</small></td> <td><img src="https://img.shields.io/badge/Smart_India_Hackathon-FF6F00?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=FF6F00&color=ff69b4&border=2px+solid+red" alt="Hackathon"/><br><small>Finalist: Credit Card Fraud Detection</small></td> </tr> <tr> <td><img src="https://img.shields.io/badge/Business_Admin_Specialist-0056D2?style=for-the-badge&logo=salesforce&labelColor=0056D2&color=00ced1&border=2px+solid+cyan" alt="Salesforce"/><br><small>Salesforce</small></td> <td><img src="https://img.shields.io/badge/MS_Computer_Science-CC0000?style=for-the-badge&logo=education&labelColor=CC0000&color=ff4500&border=2px+solid+red" alt="Education"/><br><small>Illinois State University (2024)</small></td> </tr> </table> </div>
-📚 Learning Resources
-<div align="center"> <img src="https://media.giphy.com/media/26xBEmZQpvqKOhqM8/giphy.gif" width="200" alt="Knowledge Burst Animation"/> <br> <table style="border: 3px solid #00ffff; background: #1a1a1a; padding: 15px; border-radius: 15px; box-shadow: 0 0 10px #ffd700;"> <tr> <td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU"><img src="https://img.shields.io/badge/CS229_Machine_Learning-8C1515?style=for-the-badge&logo=stanford&labelColor=8C1515&color=ff00ff&border=2px+solid+cyan" alt="Stanford CS229"/></a></td> <td><a href="https://www.fast.ai/"><img src="https://img.shields.io/badge/Fast.ai_Deep_Learning-00A4EF?style=for-the-badge&labelColor=00A4EF&color=ffd700&border=2px+solid+yellow" alt="Fast.ai"/></a></td> <td><a href="https://www.deeplearningbook.org/"><img src="https://img.shields.io/badge/Deep_Learning_Book-FF6F00?style=for-the-badge&logo=tensorflow&labelColor=FF6F00&color=00ffff&border=2px+solid+lime" alt="Deep Learning Book"/></a></td> <td><a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&labelColor=FFD21E&color=ff69b4&border=2px+solid+red" alt="Hugging Face"/></a></td> </tr> <tr> <td><a href="https://paperswithcode.com/"><img src="https://img.shields.io/badge/Papers_With_Code-21CBCE?style=for-the-badge&logo=github&labelColor=21CBCE&color=ff4500&border=2px+solid+cyan" alt="Papers With Code"/></a></td> <td><a href="https://distill.pub/"><img src="https://img.shields.io/badge/Distill_Research-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=00ced1&border=2px+solid+lime" alt="Distill"/></a></td> <td><a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&labelColor=20BEFF&color=ffd700&border=2px+solid+yellow" alt="Kaggle"/></a></td> <td><a href="https://www.coursera.org/specializations/deep-learning"><img src="https://img.shields.io/badge/Coursera_DL-0056D2?style=for-the-badge&logo=coursera&labelColor=0056D2&color=ff00ff&border=2px+solid+red" alt="Coursera DL"/></a></td> </tr> </table> </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=stu1219&color=ff00ff&style=for-the-badge&label=Profile+Views&border=2px+solid+cyan" alt="Profile views"/> <br><br> <img src="https://media.giphy.com/media/3o7TKzM4fLGmW9Cg8w/giphy.gif" width="200" alt="Future Vision Animation"/> <br> <span style="color: #ff69b4; font-size: 1.5em; text-shadow: 2px 2px #ffd700;">**"Engineering the Future, One Algorithm at a Time"**</span> </div>
+# <div align="center">👨‍💻 Sai Ram Gandla</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sairamgandla"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sairamgandla11@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0005-4455-3111"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=stu1219&style=for-the-badge&color=blue" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Researcher;IEEE+Published+Author;Deep+Learning+Specialist" alt="Typing SVG" />
+</div>
+
+<br/>
+
+## <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Tech Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="R" width="65" height="65" />
+        <br>R
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a5f-9d12-0ac968db7a48.png" alt="TensorFlow" width="65" height="65" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/202540780-999f189c-341a-438a-a7e7-eff5a505b2f9.png" alt="Deno" width="65" height="65" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab2-d4d5dc17efe5.png" alt="Flutter" width="65" height="65" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" width="65" height="65" />
+        <br>Jupyter
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" width="65" height="65" />
+        <br>Redis
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" width="65" height="65" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4dfb-8eee-8c04fbaeb283.png" alt="Spark" width="65" height="65" />
+        <br>Spark
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" width="65" height="65" />
+        <br>GCP
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/000000/snowflake.png" alt="Snowflake" width="65" height="65" />
+        <br>Snowflake
+      </td>
+    </tr>
+  </table>
+</div>
+
+## <img align="center" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> Top Projects
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://github.com/stu1219/AI-Web-Scraper-with-LLM-Parsing">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=AI-Web-Scraper-with-LLM-Parsing&theme=tokyonight&hide_border=true" alt="AI Web Scraper" />
+    </a>
+    <a href="https://github.com/stu1219/End-to-end-machine-learning-Project-with-ML-flow">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=End-to-end-machine-learning-Project-with-ML-flow&theme=tokyonight&hide_border=true" alt="ML Flow Project" />
+    </a>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
+    <a href="https://github.com/stu1219/Car-Price-Prediction-Using-Machine-Learning">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=Car-Price-Prediction-Using-Machine-Learning&theme=tokyonight&hide_border=true" alt="Car Price Prediction" />
+    </a>
+    <a href="https://github.com/stu1219/Crime_Rate_Prediction_using_Facebook_Prophet">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=Crime_Rate_Prediction_using_Facebook_Prophet&theme=tokyonight&hide_border=true" alt="Crime Rate Prediction" />
+    </a>
+  </div>
+</div>
+
+## <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> ML & AI Expertise
+
+<div align="center">
+  <img src="https://i.imgur.com/YMnvL0v.png" alt="AI Expertise" width="650px"/>
+</div>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a5f-9d12-0ac968db7a48.png">
+        <br>Deep Learning
+      </td>
+      <td align="center">
+        <img width="50" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-machine-coding-and-development-soft-fill-soft-fill-juicy-fish.png">
+        <br>ML Algorithms
+      </td>
+      <td align="center">
+        <img width="50" src="https://img.icons8.com/color/48/000000/combo-chart--v1.png">
+        <br>Time Series
+      </td>
+      <td align="center">
+        <img width="50" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-nlp-computer-science-flaticons-flat-flat-icons.png">
+        <br>NLP
+      </td>
+      <td align="center">
+        <img width="50" src="https://img.icons8.com/external-vectorslab-flat-vectorslab/53/000000/external-Digital-Twin-industry-vectorslab-flat-vectorslab.png">
+        <br>Digital Twin
+      </td>
+      <td align="center">
+        <img width="50" src="https://img.icons8.com/color/48/000000/find-matching-job.png">
+        <br>Anomaly Detection
+      </td>
+    </tr>
+  </table>
+</div>
+
+## <img align="center" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40"> Research Publications
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://img.icons8.com/fluency/48/000000/ieee.png" width="40"/>
+      </td>
+      <td>
+        <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Artificial%20Intelligence%20and%20Natural%20Language%20Processing%20for%20Quality%20Control%20and%20Management">
+          Artificial Intelligence and Natural Language Processing for Quality Control and Management
+        </a>
+        <br>
+        <i>IEEE CIVEMSA 2024, Xi'an, China</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.icons8.com/fluency/48/000000/ieee.png" width="40"/>
+      </td>
+      <td>
+        <a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Enabling%20Digital%20Twin%20Using%20MEMS%20and%20Sensor%20Technology%20with%20Historic%20Data">
+          Enabling Digital Twin Using MEMS and Sensor Technology with Historic Data: From Data Fusion to Knowledge Fusion
+        </a>
+        <br>
+        <i>IEEE EEI 2024, Chongqing, China</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.icons8.com/color/48/000000/study.png" width="40"/>
+      </td>
+      <td>
+        <a href="https://www.mdpi.com/journal/applsci">
+          Multivariate Regression and Variance of Concrete Curing Methods: Strength Prediction with Experiment
+        </a>
+        <br>
+        <i>Journal of Applied Sciences, 13(22), 12239 (2023)</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## <img align="center" src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="40"> Learning Resources
+
+<div align="center">
+  <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU">
+    <img src="https://img.shields.io/badge/Stanford-CS229-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Stanford CS229"/>
+  </a>
+  <a href="https://www.fast.ai/">
+    <img src="https://img.shields.io/badge/Fast.ai-Deep%20Learning-00A4EF?style=for-the-badge" alt="Fast.ai"/>
+  </a>
+  <a href="https://www.deeplearningbook.org/">
+    <img src="https://img.shields.io/badge/Book-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow" alt="Deep Learning Book"/>
+  </a>
+  <a href="https://huggingface.co/">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface" alt="Hugging Face"/>
+  </a>
+  <br>
+  <a href="https://paperswithcode.com/">
+    <img src="https://img.shields.io/badge/Papers-With%20Code-21CBCE?style=for-the-badge&logo=github" alt="Papers With Code"/>
+  </a>
+  <a href="https://distill.pub/">
+    <img src="https://img.shields.io/badge/Distill-Research-FF6B6B?style=for-the-badge" alt="Distill"/>
+  </a>
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-Competitions-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
+  </a>
+  <a href="https://www.coursera.org/specializations/deep-learning">
+    <img src="https://img.shields.io/badge/Coursera-Deep%20Learning-0056D2?style=for-the-badge&logo=coursera" alt="Coursera DL"/>
+  </a>
+</div>
+
+## <img align="center" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="40"> Achievements & Certifications
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="150" align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/prize.png" width="45"/>
+        <br>
+        Award
+      </td>
+      <td>
+        <b>Outstanding Graduate Student Researcher Award</b>
+        <br>Illinois State University, 2024-2025
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <img src="https://img.icons8.com/color/48/000000/meeting-room.png" width="45"/>
+        <br>
+        Advisory Role
+      </td>
+      <td>
+        <b>AI Data Specialist Advisory Board Member</b>
+        <br>Waukesha County Technical College, January 2025
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="45"/>
+        <br>
+        Certification
+      </td>
+      <td>
+        <b>Human Subjects Research Certificate</b>
+        <br>CITI Program, Florida, USA - April 2024
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <img src="https://img.icons8.com/color/48/000000/salesforce.png" width="45"/>
+        <br>
+        Certification
+      </td>
+      <td>
+        <b>Business Administration Specialist Certificate</b>
+        <br>Salesforce, USA - June 2019
+      </td>
+    </tr>
+    <tr>
+      <td width="150" align="center">
+        <img src="https://img.icons8.com/color/48/000000/hackathon.png" width="45"/>
+        <br>
+        Competition
+      </td>
+      <td>
+        <b>Finalist - Smart India Hackathon</b>
+        <br>Presented a working model for credit card fraud detection, India - September 2019
+      </td>
+    </tr>
+  </table>
+</div>
+
+## <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40"> Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sairamgandla">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50" height="50"/>
+  </a>
+  <a href="mailto:sairamgandla11@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/stu1219">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="50" height="50"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <br><br>
+  <i>"At the intersection of data, algorithms, and engineering lies the power to transform industries."</i>
+</div>
