@@ -80,64 +80,6 @@
   </table>
 </div>
 
-## <img align="center" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> Top Projects
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://github.com/stu1219/AI-Web-Scraper-with-LLM-Parsing">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=AI-Web-Scraper-with-LLM-Parsing&theme=tokyonight&hide_border=true" alt="AI Web Scraper" />
-    </a>
-    <a href="https://github.com/stu1219/End-to-end-machine-learning-Project-with-ML-flow">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=End-to-end-machine-learning-Project-with-ML-flow&theme=tokyonight&hide_border=true" alt="ML Flow Project" />
-    </a>
-  </div>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-    <a href="https://github.com/stu1219/Car-Price-Prediction-Using-Machine-Learning">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=Car-Price-Prediction-Using-Machine-Learning&theme=tokyonight&hide_border=true" alt="Car Price Prediction" />
-    </a>
-    <a href="https://github.com/stu1219/Crime_Rate_Prediction_using_Facebook_Prophet">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=stu1219&repo=Crime_Rate_Prediction_using_Facebook_Prophet&theme=tokyonight&hide_border=true" alt="Crime Rate Prediction" />
-    </a>
-  </div>
-</div>
-
-## <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> ML & AI Expertise
-
-<div align="center">
-  <img src="https://i.imgur.com/YMnvL0v.png" alt="AI Expertise" width="650px"/>
-</div>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a5f-9d12-0ac968db7a48.png">
-        <br>Deep Learning
-      </td>
-      <td align="center">
-        <img width="50" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-machine-coding-and-development-soft-fill-soft-fill-juicy-fish.png">
-        <br>ML Algorithms
-      </td>
-      <td align="center">
-        <img width="50" src="https://img.icons8.com/color/48/000000/combo-chart--v1.png">
-        <br>Time Series
-      </td>
-      <td align="center">
-        <img width="50" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-nlp-computer-science-flaticons-flat-flat-icons.png">
-        <br>NLP
-      </td>
-      <td align="center">
-        <img width="50" src="https://img.icons8.com/external-vectorslab-flat-vectorslab/53/000000/external-Digital-Twin-industry-vectorslab-flat-vectorslab.png">
-        <br>Digital Twin
-      </td>
-      <td align="center">
-        <img width="50" src="https://img.icons8.com/color/48/000000/find-matching-job.png">
-        <br>Anomaly Detection
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## <img align="center" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40"> Research Publications
 
 <div align="center">
