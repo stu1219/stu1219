@@ -28,22 +28,17 @@ Software Development Engineer at **Amazon Prime Video**, building AI-powered sys
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td width="60" align="center">
-        <img src="https://img.icons8.com/color/96/amazon.png" width="50"/>
+      <td width="80" align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/240px-Amazon_Prime_Video_logo.svg.png" width="70"/>
       </td>
       <td>
         <b>Software Development Engineer I — Amazon Prime Video</b>
         <br><i>Prime Video Experience Tech &nbsp;|&nbsp; August 2025 – Present</i>
         <br><br>
-        • Built an AI-powered conversational assistant that helps teams analyze streaming quality and investigate playback issues across billions of sessions<br>
-        • Designed a transparency system that shows users how the AI reasons through complex questions step by step — covering data analysis, metrics lookups, knowledge retrieval, and multi-source investigations<br>
-        • Led integration of MCP data source connectors enabling the AI to query analytics platforms, metrics systems, and knowledge bases in real time<br>
-        • Owned migration to a modern AI model API unlocking advanced reasoning, real-time streaming, and structured tool orchestration — became the foundation for every feature shipped afterward<br>
-        • Drove three end-to-end AI model upgrades: prompt re-engineering, regression testing across production scenarios, and phased rollouts to progressively larger user groups<br>
-        • Built the intelligent routing layer that determines which agent and data source to use based on user intent (metrics, documentation, data queries, anomaly investigation)<br>
-        • Developed the frontend conversational experience: chat interface, reasoning display, citation handling, data export, and onboarding<br>
-        • Built observability and tracing infrastructure to monitor AI pipeline performance and debug issues across the full request lifecycle<br>
-        • Worked across the full stack: React/TypeScript · Python/Serverless · AWS CDK · Prompt Engineering · Agent Orchestration
+        • Built and shipped an AI conversational assistant for streaming quality analysis across billions of Prime Video sessions, covering data queries, metrics lookups, and multi-source anomaly investigation<br>
+        • Owned three end-to-end AI model upgrades — prompt re-engineering, production regression testing, and phased rollouts — and led the API migration that became the foundation for all subsequent features<br>
+        • Designed a multi-agent routing layer + MCP data connectors that dynamically resolve user intent to the right analytics platform, knowledge base, or metrics system in real time<br>
+        • Delivered the full conversational UI (React/TypeScript) including reasoning transparency display, citations, and data export, alongside observability infrastructure for AI pipeline tracing<br>
       </td>
     </tr>
   </table>
