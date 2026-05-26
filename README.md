@@ -8,18 +8,46 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;IEEE+Published+Researcher;Deep+Learning+%26+NLP+Specialist;Graduate+Researcher+%40+Illinois+State+University;Building+Production-Grade+ML+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=560&lines=SDE+I+%40+Amazon+Prime+Video;AI+%26+LLM+Systems+Engineer;IEEE+Published+Researcher;Full-Stack+ML+%7C+React+%7C+Python+%7C+AWS" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ## About Me
 
-Machine Learning Engineer and IEEE-published researcher specializing in deep learning, NLP, and scalable ML systems. I bridge the gap between cutting-edge research and production-grade engineering — from sensor-based digital twin systems to LLM-powered applications deployed on cloud infrastructure.
+Software Development Engineer at **Amazon Prime Video**, building AI-powered systems that help teams analyze streaming quality and make data-driven decisions across billions of sessions worldwide. I design and ship full-stack ML products end-to-end — from LLM agent orchestration and prompt engineering to React frontends and serverless AWS infrastructure.
 
-- **Research:** NLP for quality control, digital twin systems, predictive modeling for civil and industrial applications
-- **Engineering:** End-to-end ML pipelines, containerized model deployment, distributed data processing
-- **Recognition:** Outstanding Graduate Student Researcher Award — Illinois State University, 2024–2025
+- **Currently:** SDE I, Prime Video Experience Tech — AI conversational assistant, agent routing, model upgrades
+- **Stack:** Python · React/TypeScript · AWS CDK · Prompt Engineering · Agent Orchestration
+- **Research:** IEEE-published in NLP, digital twin systems, and predictive modeling
+
+---
+
+## Experience
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="60" align="center">
+        <img src="https://img.icons8.com/color/96/amazon.png" width="50"/>
+      </td>
+      <td>
+        <b>Software Development Engineer I — Amazon Prime Video</b>
+        <br><i>Prime Video Experience Tech &nbsp;|&nbsp; August 2025 – Present</i>
+        <br><br>
+        • Built an AI-powered conversational assistant that helps teams analyze streaming quality and investigate playback issues across billions of sessions<br>
+        • Designed a transparency system that shows users how the AI reasons through complex questions step by step — covering data analysis, metrics lookups, knowledge retrieval, and multi-source investigations<br>
+        • Led integration of MCP data source connectors enabling the AI to query analytics platforms, metrics systems, and knowledge bases in real time<br>
+        • Owned migration to a modern AI model API unlocking advanced reasoning, real-time streaming, and structured tool orchestration — became the foundation for every feature shipped afterward<br>
+        • Drove three end-to-end AI model upgrades: prompt re-engineering, regression testing across production scenarios, and phased rollouts to progressively larger user groups<br>
+        • Built the intelligent routing layer that determines which agent and data source to use based on user intent (metrics, documentation, data queries, anomaly investigation)<br>
+        • Developed the frontend conversational experience: chat interface, reasoning display, citation handling, data export, and onboarding<br>
+        • Built observability and tracing infrastructure to monitor AI pipeline performance and debug issues across the full request lifecycle<br>
+        • Worked across the full stack: React/TypeScript · Python/Serverless · AWS CDK · Prompt Engineering · Agent Orchestration
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -33,8 +61,12 @@ Machine Learning Engineer and IEEE-published researcher specializing in deep lea
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=r" alt="R" width="65" height="65" />
-        <br>R
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <br>TypeScript
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
@@ -45,42 +77,38 @@ Machine Learning Engineer and IEEE-published researcher specializing in deep lea
         <br>TensorFlow
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="65" height="65" />
-        <br>Kubernetes
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="65" height="65" />
         <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter" width="65" height="65" />
-        <br>Jupyter
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="65" height="65" />
+        <br>Kubernetes
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis" width="65" height="65" />
-        <br>Redis
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
+        <br>Docker
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
         <br>MongoDB
       </td>
       <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="Redis" width="65" height="65" />
+        <br>Redis
+      </td>
+      <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4dfb-8eee-8c04fbaeb283.png" alt="Spark" width="65" height="65" />
         <br>Spark
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="GCP" width="65" height="65" />
-        <br>GCP
+        <img src="https://skillicons.dev/icons?i=r" alt="R" width="65" height="65" />
+        <br>R
       </td>
       <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
         <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="65" height="65" />
-        <br>Docker
       </td>
       <td align="center" width="96">
         <img src="https://img.icons8.com/color/96/000000/snowflake.png" alt="Snowflake" width="65" height="65" />
@@ -157,8 +185,7 @@ Machine Learning Engineer and IEEE-published researcher specializing in deep lea
     <tr>
       <td width="150" align="center">
         <img src="https://img.icons8.com/fluency/48/000000/prize.png" width="45"/>
-        <br>
-        Award
+        <br>Award
       </td>
       <td>
         <b>Outstanding Graduate Student Researcher Award</b>
@@ -168,8 +195,7 @@ Machine Learning Engineer and IEEE-published researcher specializing in deep lea
     <tr>
       <td width="150" align="center">
         <img src="https://img.icons8.com/color/48/000000/meeting-room.png" width="45"/>
-        <br>
-        Advisory Role
+        <br>Advisory Role
       </td>
       <td>
         <b>AI Data Specialist Advisory Board Member</b>
@@ -179,8 +205,7 @@ Machine Learning Engineer and IEEE-published researcher specializing in deep lea
     <tr>
       <td width="150" align="center">
         <img src="https://img.icons8.com/color/48/000000/certificate.png" width="45"/>
-        <br>
-        Certification
+        <br>Certification
       </td>
       <td>
         <b>Human Subjects Research Certificate</b>
@@ -190,8 +215,7 @@ Machine Learning Engineer and IEEE-published researcher specializing in deep lea
     <tr>
       <td width="150" align="center">
         <img src="https://img.icons8.com/color/48/000000/salesforce.png" width="45"/>
-        <br>
-        Certification
+        <br>Certification
       </td>
       <td>
         <b>Business Administration Specialist Certificate</b>
@@ -201,8 +225,7 @@ Machine Learning Engineer and IEEE-published researcher specializing in deep lea
     <tr>
       <td width="150" align="center">
         <img src="https://img.icons8.com/color/48/000000/hackathon.png" width="45"/>
-        <br>
-        Competition
+        <br>Competition
       </td>
       <td>
         <b>Finalist — Smart India Hackathon 2019</b>
