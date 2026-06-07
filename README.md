@@ -15,7 +15,7 @@
 
 ## About Me
 
-Software Development Engineer at **Amazon Prime Video**, building AI-powered systems that help teams analyze streaming quality and make data-driven decisions across billions of sessions worldwide. I design and ship full-stack ML products end-to-end — from LLM agent orchestration and prompt engineering to React frontends and serverless AWS infrastructure.
+Software Development Engineer at **Amazon Prime Video**, building AI-powered systems that help teams analyze streaming quality and make data-driven decisions across billions of sessions worldwide. I design and ship full-stack ML products end-to-end from LLM agent orchestration and prompt engineering to React frontends and serverless AWS infrastructure.
 
 - **Currently:** SDE I, Prime Video Experience Tech — AI conversational assistant, agent routing, model upgrades
 - **Stack:** Python · React/TypeScript · AWS CDK · Prompt Engineering · Agent Orchestration
